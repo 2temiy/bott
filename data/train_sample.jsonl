@@ -1,0 +1,12 @@
+{"text": "твою мать", "label": "parent_insult"}
+{"text": "сын шлюхи", "label": "parent_insult"}
+{"text": "передай привет своим родителям, они тебя плохо воспитали", "label": "parent_insult"}
+{"text": "иди отсюда", "label": "general_insult"}
+{"text": "ты конченый", "label": "general_insult"}
+{"text": "я тебя найду", "label": "threat"}
+{"text": "убью тебя", "label": "threat"}
+{"text": "переходи по ссылке и получи приз", "label": "spam"}
+{"text": "скинь код из смс", "label": "spam"}
+{"text": "доброе утро", "label": "clean"}
+{"text": "спасибо", "label": "clean"}
+{"text": "какой сегодня день", "label": "clean"}
